@@ -1,9 +1,6 @@
 body {
+    background-color: #f0f8ff; /* изменили цвет фона */
     font-family: Arial, sans-serif;
-    background-color: #f8f8f8;
-    text-align: center;
-    margin: 0;
-    padding: 0;
 }
 
 header {
